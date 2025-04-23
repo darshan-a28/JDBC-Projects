@@ -50,3 +50,11 @@ CREATE TABLE departments (
     name VARCHAR(100),
     location VARCHAR(100)
 );
+
+## Database Setup
+
+### SQL Script
+
+You can set up the database by running the SQL script located in the **SQL_Scripts** folder:
+
+**File:** [SQL_Scripts/setup.sql](SQL_Scripts/setup.sql)
