@@ -16,6 +16,14 @@ This project is a simple **Hospital Management System** built using **Java** and
 - **MySQL**: For storing and managing hospital data.
 - **JDBC (Java Database Connectivity)**: Used to connect Java to MySQL for executing SQL queries.
 
+## Requirements
+
+- Java JDK 8 or above
+- MySQL Server
+- MySQL JDBC Driver (Connector/J)
+
+---
+
 ## Database Setup
 
 ### SQL Script
@@ -76,4 +84,27 @@ The Java files are located in the **Java_Files** folder:
 - [Java_Files/Driver.java](Java_Files/Driver.java)
 - [Java_Files/Doctor.java](Java_Files/Doctor.java)
 - [Java_Files/Patient.java](Java_Files/Patient.java)
+
+
+
+## Sample Output
+
+Here’s a quick demo of how the system works:
+
+![Add Patient](Assets/output1.png)
+![View Doctors](Assets/output2.png)
+
+---
+
+
+## How to Run
+
+1. Clone the repo or download the ZIP
+2. Import the project into your IDE (like Eclipse or IntelliJ)
+3. Run the `setup.sql` script in your MySQL to create the database and tables
+4. Update DB credentials in `Driver.java` if needed:
+   ```java
+   private static final String url="jdbc:mysql://localhost:3306/hospital";
+   private static final String username="root";
+   private static final String password="root";
 
