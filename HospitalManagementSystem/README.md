@@ -58,3 +58,22 @@ CREATE TABLE departments (
 You can set up the database by running the SQL script located in the **SQL_Scripts** folder:
 
 **File:** [SQL_Scripts/setup.sql](SQL_Scripts/setup.sql)
+
+
+
+
+## Java Code
+
+The following Java files are included in the project:
+
+- **Driver.java**: Main program that runs the hospital management system.
+- **Doctor.java**: Contains methods for managing doctors (viewing and checking doctor details).
+- **Patient.java**: Contains methods for managing patient records.
+
+The Java files are located in the **Java_Files** folder:
+
+**Files**: 
+- [Java_Files/Driver.java](Java_Files/Driver.java)
+- [Java_Files/Doctor.java](Java_Files/Doctor.java)
+- [Java_Files/Patient.java](Java_Files/Patient.java)
+
