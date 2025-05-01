@@ -62,10 +62,8 @@ Run this script in your MySQL Server to create the required tables like `guests`
 All Java source files are located in the `Java_Files` folder:
 
 📁 **Files**:
-- [Java_Files/ReservationSystem.java](Java_Files/ReservationSystem.java)
-- [Java_Files/Room.java](Java_Files/Room.java)
-- [Java_Files/Guest.java](Java_Files/Guest.java)
-- [Java_Files/Reservation.java](Java_Files/Reservation.java)
+- [Java_Files/HotelReservationSystem.java](Java_Files/HotelReservationSystem.java)
+
 
 ---
 
