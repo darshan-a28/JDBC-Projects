@@ -13,7 +13,7 @@ The system manages three primary entities:
 - **Rooms**: Represents hotel rooms with availability and pricing.
 - **Reservations**: Manages reservation details, check-in, check-out, and cancellation.
 
-This project demonstrates strong understanding of **Core Java**, **JDBC**, and **MySQL database operations**. It is ideal for beginners who want to build a functional, real-world JDBC project with practical CRUD operations.
+This project demonstrates strong understanding of **Core Java**, **JDBC**, and **MySQL database operations**. It is ideal for beginners who want to build a functional, real-world JDBC project with practical CRUD operations. 
 
 ---
 
