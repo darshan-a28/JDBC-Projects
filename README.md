@@ -47,7 +47,7 @@ A banking system that handles user accounts, transactions (deposits, withdrawals
 
 ---
 
-### 4. [**Image Insertion and Retrieval System**](./ImageInsertionandRetrieval)
+### 4. [**Image Insertion and Retrieval System**](./ImageInsertionRetrieval)
 A system to insert and retrieve images from a MySQL database using Java. This project demonstrates handling **Binary Large Objects (BLOBs)** through JDBC.
 
 - **Features**:
