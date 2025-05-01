@@ -18,7 +18,7 @@ A simple hospital management system built using Java and JDBC. The system manage
 
 ---
 
-### 2. [**Hotel Reservation System**](./Hotel_Reservation_System)
+### 2. [**Hotel Reservation System**](./HotelReservationSystem)
 A hotel reservation system where users can check room availability, book rooms, and manage reservations.
 
 - **Features**:
@@ -32,7 +32,7 @@ A hotel reservation system where users can check room availability, book rooms, 
 
 ---
 
-### 3. [**Banking Management System**](./Banking_Management_System)
+### 3. [**Banking Management System**](./BankingManagementSystem)
 A banking system that handles user accounts, transactions (deposits, withdrawals, transfers), and balance inquiries.
 
 - **Features**:
@@ -47,7 +47,7 @@ A banking system that handles user accounts, transactions (deposits, withdrawals
 
 ---
 
-### 4. [**Image Insertion and Retrieval System**](./Image_Insertion_and_Retrieval)
+### 4. [**Image Insertion and Retrieval System**](./ImageInsertionandRetrieval)
 A system to insert and retrieve images from a MySQL database using Java. This project demonstrates handling **Binary Large Objects (BLOBs)** through JDBC.
 
 - **Features**:
