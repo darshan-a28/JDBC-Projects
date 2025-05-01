@@ -62,6 +62,8 @@ The Java files are located in the **Java_Files** folder:
 Here’s a quick demo of how the system works:
 
 ![Add Patient](Assets/screenshots/output1.png)
+
+
 ![View Doctors](Assets/screenshots/output2.png)
 
 ---
