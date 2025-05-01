@@ -67,6 +67,20 @@ All Java source files are located in the `Java_Files` folder:
 - [Java_Files/Account.java](Java_Files/Account.java)
 - [Java_Files/AccountManager.java](Java_Files/AccountManager.java)
 
+
+## Sample Output
+
+Here’s a quick demo of how the system works:
+
+![Output1](Assets/screenshots/output1.png)
+
+
+![Output2](Assets/screenshots/output2.png)
+
+---
+
+
+
 Update the DB credentials in `Driver.java` if needed:
 ```java
 private static final String url = "jdbc:mysql://localhost:3306/bank_db";
