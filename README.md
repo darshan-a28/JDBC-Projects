@@ -4,7 +4,7 @@ This repository contains a collection of my **JDBC (Java Database Connectivity)*
 
 ## 📂 Projects
 
-### 1. [**Hospital Management System**](./Hospital_Management_System)
+### 1. [**Hospital Management System**](./HospitalManagementSystem)
 A simple hospital management system built using Java and JDBC. The system manages patient records, doctor details, and hospital departments.
 
 - **Features**:
