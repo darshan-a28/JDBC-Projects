@@ -77,4 +77,4 @@ To run any of these projects, you will need:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/JDBC-Projects.git
+   git clone https://github.com/darshan-a28/JDBC-Projects.git
